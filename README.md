@@ -45,8 +45,7 @@ open the terminal and search
 
 navigate to the allure path............
 
-C:\Users\ravisankar.n\OneDrive - Everi Payments, Inc\Desktop\Eclipse Code\Everi_Concierge\allure-results
+C:\Users\ravisankar.n\OneDrive - Everi Payments, Inc\Desktop\Eclipse Code\Everi_Concierge>
 
-open the commend prompt 
--> allure serve
+***************allure serve ./allure-results***********************************************
 
